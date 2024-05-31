@@ -1,0 +1,17 @@
+body{
+    background: #000;
+    margin: auto;
+}
+
+h1{
+    color: #0ff;
+}
+
+h3{
+    color: #0f0;
+}
+
+img{
+    border-radius: 10%;
+    box-shadow: 2px 2px 50px #ff0;
+}
